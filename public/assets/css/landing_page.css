@@ -1,0 +1,102 @@
+.atas {
+    background-color: #E9E9E9;
+    height: 50px;
+}
+
+.active {
+    color: #F9C306;
+    /* background-color: black; */
+}
+
+.logoA {
+    height: 40px; 
+    margin-left: 10px; 
+    padding-top: 10px;
+}
+
+.logoB {
+    height: 40px; 
+    padding-top: 15px;
+}
+
+.fitur {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.login {
+    background-color: #F9C306; 
+    width: 89px; height: 30px; 
+    margin-top: 10px; 
+    border: #E9E9E9 solid 1px; 
+    border-radius: 10px; 
+    margin-left: 400px; 
+    text-align: center; 
+    font-weight: bold;
+}
+
+.biodata {
+    padding-left: 500px; 
+    padding-top: 30px; 
+    padding-right: 300px;
+}
+
+.borderlanjut {
+    border: #FFE500 solid 2px; 
+    border-radius: 8px; 
+    width: 90px; 
+    height: 30px;
+}
+
+.lanjut {
+    text-decoration: none;
+    color: #F9C306; 
+    font-weight: bold;
+}
+
+.logoC {
+    height: 249px; 
+    margin-top: 60px;
+}
+
+.layanan{
+    height: 421px; 
+    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(/img/lp.png); 
+    background-size: cover;
+}
+
+.pertanyaan {
+    height: 300px; 
+    margin-top: 200px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.borderpertanyaan {
+    border: black 2px solid; 
+    width: 230px; 
+    height: 60px; 
+    background-color: #F9C306; 
+    border-radius: 10px;
+}
+
+h4 {
+    font-weight: bold; 
+    margin-top: 12px; 
+}
+
+footer {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%;
+}
+
+.textfooter {
+    background-color: #E9E9E9
+}

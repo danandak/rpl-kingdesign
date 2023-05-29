@@ -1,0 +1,93 @@
+.atas {
+    background-color: #E9E9E9;
+    height: 50px;
+}
+
+.logoA {
+    height: 40px; 
+    margin-left: 10px; 
+    padding-top: 10px;
+}
+
+.logoB {
+    height: 40px; 
+    padding-top: 15px;
+}
+
+.fitur {
+    font-weight: bold;
+}
+
+.use {
+    color: #FFE500;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.login {
+    background-color: #F9C306; 
+    width: 89px; height: 31px; 
+    margin-top: 10px; 
+    border: #E9E9E9 solid 1px; 
+    border-radius: 10px; 
+    margin-left: 400px; 
+    text-align: center; 
+    font-weight: bold;
+}
+
+.biodata {
+    padding-left: 500px; 
+    padding-top: 30px; 
+    padding-right: 300px;
+}
+
+.logoC {
+    height: 249px; 
+    margin-top: 60px;
+}
+
+.logoD {
+    height: 50px;
+}
+
+.tagline {
+    text-align: right; 
+    margin-right: 80px; 
+    margin-left: 80px; 
+    color: #7E7E7E;
+}
+
+.location {
+    height: 421px; 
+    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(/img/unj.png); 
+    background-size: cover;
+}
+
+.locationText {
+    font-weight: bold; 
+    padding-top: 160px;
+}
+
+.langkah {
+    height: 421px; 
+    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(/img/langkahpengerjaan.png); 
+    background-size: cover;
+}
+
+.langkahText {
+    font-weight: bold; 
+    padding-top: 20px;
+}
+
+footer {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%;
+}
+
+.textfooter {
+    background-color: #E9E9E9
+}
