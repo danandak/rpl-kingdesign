@@ -44,7 +44,7 @@
                 </label>
             </div>
             <div class="submit mb-3" style="padding-bottom: 170px;">
-                <a href="/login.html"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Register</button>
+                <a href="/login"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Register</button>
                 </a>
             </div>
         </center>

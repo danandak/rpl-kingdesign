@@ -1,7 +1,7 @@
 <div class="atas">
   <div class="row">
     <div class="col-4">
-      <a href="/landing_page.html">
+      <a href="/">
         <img class="logoA" src="assets/img/logo.png" alt="">
         <img class="logoB" src="assets/img/KingDesign.png" alt="">
       </a>

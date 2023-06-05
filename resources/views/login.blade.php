@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="submit mt-3">
-                <a href="/landing_page.html"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Login</button>
+                <a href="/"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Login</button>
                 </a>
             </div>
             <div class="signup mt-1" style="padding-bottom: 125px;">
@@ -36,7 +36,7 @@
                         Don't have an account yet? <a href="{{ route('register') }}"> Sign up now. </a>
                     </div>
                     <div class="col-2" style="font-size: 12px; text-align: right; margin-right: 5px;">
-                        <a href="/forget.html" style="text-decoration: none;">Forget Password</a>
+                        <a href="/forget" style="text-decoration: none;">Forget Password</a>
                     </div>
                 </div>
 

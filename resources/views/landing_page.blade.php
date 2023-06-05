@@ -33,11 +33,22 @@
       </div>
     </div>
   </div>
+  <div class="layanan1">
+    <center>
+      <h1 style="padding-top: 30px;">Layanan KingDesign</h1>
+    </center>
+    <div class="row">
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+      <div class="column"></div>
+    </div>  
+  </div>
   <div class="pertanyaan">
     <center>
       <h1>Punya Pertanyaan Lebih Lanjut?</h1>
       <div class="borderpertanyaan">
-        <a href="/kontak.html">
+        <a href="/kontak">
           <h4>Hubungi Kami</h4>
         </a>
       </div>
