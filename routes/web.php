@@ -7,6 +7,7 @@ use App\Http\Controllers\KontakController;
 use App\Http\Controllers\LayananController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\ForgetController;
 
 /*
 |--------------------------------------------------------------------------
@@ -30,6 +31,9 @@ Route::controller(LoginController::class)->group(function() {
 
 // Register
 Route::get('/register', [RegisterController::class, 'index'])->name('register');
+
+// Register
+Route::get('/forget', [ForgetController::class, 'index'])->name('forget');
 
 // Landing Page
 Route::get('/', [HomeController::class, 'index'])->name('home.index');
