@@ -24,7 +24,7 @@
         </div>
 
         <div class="submit mb-3 text-center" style="padding-bottom: 280px;">
-            <a href="/code.html"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Enter</button>
+            <a href="{{ route('recovery') }}"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Enter</button>
             </a>
         </div>
     </div>
