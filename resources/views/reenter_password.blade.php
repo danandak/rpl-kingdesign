@@ -29,7 +29,7 @@
 
 
         <div class="submit mb-3 text-center" style="padding-bottom: 255px;">
-            <a href="/login.html"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold;">Enter</button>
+            <a href="/login"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold;">Enter</button>
             </a>
         </div>
     </div>

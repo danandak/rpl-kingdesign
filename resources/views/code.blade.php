@@ -12,9 +12,9 @@
 
 <body>
     <div style="background-color: white; margin: 40px; width: auto;">
-        <!-- <center> -->
+        <center>
         <img src="/assets/img/KingDesign.png" alt="" style="width: 200px; margin-top: 150px;">
-        <!-- </center> -->
+        </center>
         <br> <br>
         <div class="name" style="margin-left: 495px; margin-right: 495px;">
             <label for="exampleFormControlInput1" class="form-label text-black fw-bold">Enter code</label>
@@ -26,7 +26,7 @@
         </div>
 
         <div class="submit mb-3 text-center" style="padding-bottom: 255px;">
-            <a href="/reenter_password.html"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Enter</button>
+            <a href="{{ route('reenter_password') }}"> <button type="submit" class="" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Enter</button>
             </a>
         </div>
     </div>

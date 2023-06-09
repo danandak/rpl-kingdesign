@@ -62,7 +62,7 @@ a {
 
 .location {
     height: 421px; 
-    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(/img/unj.png); 
+    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(../img/unj.png); 
     background-size: cover;
 }
 
@@ -73,7 +73,7 @@ a {
 
 .langkah {
     height: 421px; 
-    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(/img/langkahpengerjaan.png); 
+    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(../img/langkahpengerjaan.png); 
     background-size: cover;
 }
 

@@ -18,7 +18,7 @@
           </p>
           <div class="borderlanjut">
             <center>
-              <a class="lanjut" href="/tentang_kami.html">
+              <a class="lanjut" href="/about">
                 Lanjutkan
               </a>
             </center>

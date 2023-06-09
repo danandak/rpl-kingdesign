@@ -36,7 +36,7 @@
                         Don't have an account yet? <a href="{{ route('register') }}"> Sign up now. </a>
                     </div>
                     <div class="col-2" style="font-size: 12px; text-align: right; margin-right: 5px;">
-                        <a href="/forget" style="text-decoration: none;">Forget Password</a>
+                        <a href="{{ route('forget') }}" style="text-decoration: none;">Forget Password</a>
                     </div>
                 </div>
 
