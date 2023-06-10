@@ -49,6 +49,68 @@ a {
     padding-top: 160px;
 }
 
+.details {
+  margin-left: 5px;
+  font-weight: bold;
+  font-size: 14pt;
+}
+
+.logo-maps {
+    width: 32px;
+    height: 36px;
+}
+
+.logo-email {
+    width: 32px;
+    height: 28px;
+}
+
+.logo-whatsapp {
+    width: 38px;
+    height: 40px;
+}
+
+.logo-instagram {
+    width: 38px;
+    height: 38px;
+}
+
+.container {
+    display: flex;
+}
+
+.contact {
+    margin-top: 250px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.contact ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact li {
+    margin-bottom: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.contact li .icon {
+    margin-right: 15px;
+}
+
+.map {
+    margin-top: 160px;
+    margin-left: 70px;
+    padding: 20px;
+}
+
+.judul-map {
+  margin-left: 220px;
+  font-weight: bold;
+  font-size: 14pt;
+}
+
 footer {
     position: fixed; 
     bottom: 0; 
