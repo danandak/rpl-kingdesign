@@ -2,9 +2,9 @@
 
 @section('content')
   <div class="biodata">
-    <div class="container">
-      <div class="row">
-        <div class="col">
+    <div class="container" style="display: block; margin-left: -150px">
+      <div class="row-12" style="width: 1000px; display: flex;">
+        <div class="col-6" style="width: 500px;">
           <h2 class="fw-bold">Jasa Kreatif</h2>
           <p style="text-align: justify;">Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
@@ -14,18 +14,18 @@
             containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus
             PageMaker including versions of Lorem Ipsum.</p>
         </div>
-        <div class="col">
+        <div class="col-6">
           <center>
             <img class="logoC" src="/assets/img/logo.png">
           </center>
         </div>
       </div>
       <br>
-      <div class="row">
-        <div class="col">
+      <div class="row-12" style="width: 750px; display: flex;">
+        <div class="col-6">
           <img class="logoD" src="/assets/img/KingDesign.png" alt="">
         </div>
-        <div class="col tagline">
+        <div class="col-6 tagline">
           <p>“Lorem Ipsum is simply dummy text of the printing and typesetting industry”</p>
         </div>
       </div>
