@@ -36,13 +36,21 @@
   <div class="layanan1">
     <center>
       <h1 style="padding-top: 30px;">Layanan KingDesign</h1>
+      <br><br>
+   <div class="carousel-container">
+    <div class="carousel-slide">
+      <div class="carousel-item">Logo</div>
+      <div class="carousel-item">Brosur</div>
+      <div class="carousel-item">Flyer</div>
+      <div class="carousel-item">Presentasi</div>
+      <div class="carousel-item">Kemasan</div>
+      <div class="carousel-item">Website</div>
+      <div class="carousel-item">Aplikasi</div>
+      <div class="carousel-item">Infografis</div>
+    </div>
+</div>
     </center>
-    <div class="row">
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-      <div class="column"></div>
-    </div>  
+
   </div>
   <div class="pertanyaan">
     <center>

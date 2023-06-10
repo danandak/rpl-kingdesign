@@ -32,6 +32,8 @@
   @include('partials.header')
   @yield('content')
   @include('partials.footer')
+  
+  <script src="/assets/js/landing_page.js"></script>
 </body>
 
 </html>

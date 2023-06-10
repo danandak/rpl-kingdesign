@@ -41,5 +41,27 @@
     <center>
       <h1 class="langkahText"> Langkah Pengerjaan </h1>
     </center>
+    <div class="box-container">
+        <div class="box">
+        	<center>
+        		<img class="gambar1" src="/assets/img/konsultasi.png">
+        	</center>
+        </div>
+        <div class="box">
+        	<center>
+        		<img class="gambar2" src="/assets/img/analisa.png">
+        	</center>
+        </div>
+        <div class="box">
+        	<center>
+        		<img class="gambar3" src="/assets/img/pengerjaan.png">
+        	</center>
+        </div>
+        <div class="box">
+        	<center>
+        		<img class="gambar4" src="/assets/img/evaluasi.png">
+        	</center>
+        </div>
+    </div>
   </div>
 @endsection

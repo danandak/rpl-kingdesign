@@ -4,13 +4,13 @@
 }
 
 .logoA {
-    height: 40px; 
-    margin-left: 10px; 
+    height: 40px;
+    margin-left: 10px;
     padding-top: 10px;
 }
 
 .logoB {
-    height: 40px; 
+    height: 40px;
     padding-top: 15px;
 }
 
@@ -28,31 +28,33 @@ a {
 }
 
 .login {
-    background-color: #F9C306; 
-    width: 89px; height: 31px; 
-    margin-top: 10px; 
-    border: #E9E9E9 solid 1px; 
-    border-radius: 10px; 
-    margin-left: 400px; 
-    text-align: center; 
+    background-color: #F9C306;
+    width: 89px;
+    height: 31px;
+    margin-top: 10px;
+    border: #E9E9E9 solid 1px;
+    border-radius: 10px;
+    margin-left: 400px;
+    text-align: center;
     font-weight: bold;
 }
 
 .layanan {
-    height: 421px; 
-    background-image:linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),  url(../img/layanan.png); 
+    height: 421px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(../img/layanan.png);
     background-size: cover;
 }
 
 .layananText {
-    font-weight: bold; 
-    padding-top: 300px; 
+    font-weight: bold;
+    padding-top: 300px;
     margin-left: 50px;
 }
 
+
 footer {
-    position: fixed; 
-    bottom: 0; 
+    position: fixed;
+    bottom: 0;
     width: 100%;
 }
 

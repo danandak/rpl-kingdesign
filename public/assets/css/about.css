@@ -79,7 +79,37 @@ a {
 
 .langkahText {
     font-weight: bold; 
-    padding-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 120px;
+}
+
+.box {
+    width: 265px;
+    height: 243px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-right: 10px;
+}
+
+.gambar1 {
+	margin-top: 35px;
+}
+
+.gambar2 {
+	margin-top: 10px;
+}
+
+.gambar3 {
+	margin-top: 38px;
+}
+
+.gambar4 {
+	margin-top: 31px;
 }
 
 footer {
