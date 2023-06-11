@@ -28,7 +28,7 @@
                 </li>
                 <li>
                     <span class="icon">
-                        <a href="https://wa.me/6289525070926">
+                        <a href="https://wa.me/6289525070926" target="_blank">
                             <img class="logo-whatsapp" src="/assets/logo/whatsapp.png" alt="Nomor Telepon Icon">
                         </a>
                     </span>

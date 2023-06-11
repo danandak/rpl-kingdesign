@@ -6,8 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Login</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/css/login.css">
 
   {{-- favicon --}}
@@ -24,26 +23,25 @@
         <div class="email" style="margin-left: 495px; margin-right: 495px;">
           <div class="mb-3">
             @if (session()->has('loginError'))
-              <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                {{ session('loginError') }}
-                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-              </div>
-            @endif
-            
-            @if (session()->has('status'))
-              <div class="alert alert-success alert-dismissible fade show" role="alert">
-                {{ session('status') }}
-                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-              </div>
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+              {{ session('loginError') }}
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
             @endif
 
-            <input type="email" name="email" class="form-control @error('email') is-invalid @enderror"
-              id="exampleFormControlInput1" placeholder="Email" value="{{ old('email') }}" style="color: black;">
+            @if (session()->has('status'))
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+              {{ session('status') }}
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            @endif
+
+            <input type="email" name="email" class="form-control @error('email') is-invalid @enderror" id="exampleFormControlInput1" placeholder="Email" value="{{ old('email') }}" style="color: black;">
 
             @error('email')
-              <div class="invalid-feedback">
-                {{ $message }}
-              </div>
+            <div class="invalid-feedback">
+              {{ $message }}
+            </div>
             @enderror
           </div>
         </div>
@@ -53,17 +51,16 @@
             <input type="password" name="password" class="form-control" id="inputPassword2" placeholder="Password">
 
             @error('password')
-              <div class="invalid-feedback">
-                {{ $message }}
-              </div>
+            <div class="invalid-feedback">
+              {{ $message }}
+            </div>
             @enderror
           </div>
         </div>
 
 
         <div class="submit mt-3">
-          <button type="submit"
-            style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Login</button>
+          <button type="submit" style="width: 465px; height: 40px; background-color: #FFE500; border: 1px black solid; border-radius: 10px; font-weight: bold">Login</button>
         </div>
       </form>
   </div>
