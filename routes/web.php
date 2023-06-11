@@ -10,6 +10,7 @@ use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\ForgetController;
 use App\Http\Controllers\RecoveryController;
 use App\Http\Controllers\ReenterPasswordController;
+use App\Http\Controllers\Layanan_DetailsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -54,3 +55,6 @@ Route::get('/about', [AboutController::class, 'index'])->name('about.index');
 
 // Layanan
 Route::get('/layanan', [LayananController::class, 'index'])->name('layanan.index');
+
+// Layanan Details
+Route::get('/layanan/id', [Layanan_DetailsController::class, 'index'])->name('layanan_details.index');

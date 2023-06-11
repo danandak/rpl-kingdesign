@@ -23,6 +23,8 @@
   <link rel="stylesheet" href="/assets/css/reenter_password.css">
   <link rel="stylesheet" href="/assets/css/register.css">
   <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/layanan_details.css">
+ 
 
   <title>KingDesign</title>
   
