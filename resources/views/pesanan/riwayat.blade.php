@@ -53,8 +53,10 @@
                     ad repudiandae fugit quod iure? Eum!</p>
                 </div>
                 <div class="col d-flex align-items-end justify-content-end">
+                <a href=/layanan>
                   <button type="button" class="btn btn-primary px-4 bg-danger">Beli lagi</button>
                 </div>
+                </a>
               </div>
             </div>
           </div>
@@ -88,7 +90,9 @@
                     ad repudiandae fugit quod iure? Eum!</p>
                 </div>
                 <div class="col d-flex align-items-end justify-content-end">
+                <a href="https://wa.me/6289525070926">
                   <button type="button" class="btn btn-primary px-4 bg-warning text-dark">Hubungi Penjual</button>
+                </a>
                 </div>
               </div>
             </div>

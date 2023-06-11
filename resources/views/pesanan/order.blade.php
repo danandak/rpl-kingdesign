@@ -4,7 +4,7 @@
 <div class="container-sm" style="margin-bottom: 6rem;">
   <div class="card p-3 mt-5" style="border: 1px solid black">
     <div class="card-body">
-      <h3>Poduk Dipesan</h3>
+      <h3>Produk Dipesan</h3>
       <div class="row pb-3 mb-3" style="border-bottom: 3px solid #F9C306">
         <div class="col-3 mt-3">
           <svg width="239" height="150" viewBox="0 0 239 204" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -55,7 +55,7 @@
         <textarea name="deskripsi" id="desk" cols="10" rows="5"></textarea>
       </div>
       <div class="d-flex justify-content-end mt-4">
-        <button type="button" class="btn btn-warning fw-bold">Buat Pesanan</button>
+        <a href="/" <button type="button" class="btn btn-warning fw-bold">Buat Pesanan</button></a>
       </div>
     </div>
   </div>

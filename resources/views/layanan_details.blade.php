@@ -15,7 +15,7 @@
     <center>
       <h1 class="beli_layananText"> Berminat memakai jasa design <span class="jasaText">Logo</span> di KingDesign? Klik link dibawah ini </h1>
       <div class="border_beliLayanan">
-        <a href="/pesan-layanan">
+        <a href="/pesanan/order">
           <h4>Pesan</h4>
         </a>
       </div>
