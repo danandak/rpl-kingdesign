@@ -29,8 +29,7 @@
           <center>
             <img class="logoC" src="/assets/img/logo.png" alt="">
           </center>
-        </div>
-      </div>
+        </div>      </div>
     </div>
   </div>
   <div class="layanan1">
@@ -39,14 +38,14 @@
       <br><br>
    <div class="carousel-container">
     <div class="carousel-slide">
-      <div class="carousel-item"><a href="/layanan/id">Logo</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Brosur</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Flyer</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Presentasi</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Kemasan</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Website</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Aplikasi</a></div>
-      <div class="carousel-item"><a href="/layanan/id">Infografis</a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/logo_layanan.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/brosur.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/flyer.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/presentasi.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/kemasan.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/website.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/aplikasi.png"></a></div>
+      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/infografis.png"></a></div>
     </div>
 </div>
     </center>
