@@ -33,7 +33,7 @@
 </head>
 
 <body>
-  @include('partials.navbar')
+  @include('partials.navbar_pesanan')
   @yield('content')
   @include('partials.footer')
   

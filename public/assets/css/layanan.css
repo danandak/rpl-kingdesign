@@ -86,3 +86,20 @@ footer {
 .textfooter {
     background-color: #E9E9E9
 }
+
+.pesanan-tabs {
+    border: none;
+    --bs-nav-tabs-border-width: 0px;
+}
+
+.pesanan-tabs .nav-link {
+    background-color: transparent;
+    color: black;
+}
+
+.pesanan-tabs .nav-link.active {
+    border-bottom: solid 4px white;
+    background-color: transparent;
+    font-weight: bold;
+    color: black;
+}
