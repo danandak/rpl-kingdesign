@@ -29,10 +29,13 @@ use App\Http\Controllers\ReenterPasswordController;
 // Login
 Route::controller(LoginController::class)->group(function() {
     Route::get('/login', 'index')->name('login');
+    Route::post('/login', 'authenticate');
+    Route::post('/logout', 'logout');
 });
 
 // Register
 Route::get('/register', [RegisterController::class, 'index'])->name('register');
+Route::post('/register', [RegisterController::class, 'store']);
 
 // Lupa Password
 Route::get('/forget', [ForgetController::class, 'index'])->name('forget');
