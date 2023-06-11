@@ -39,14 +39,14 @@
       <br><br>
    <div class="carousel-container">
     <div class="carousel-slide">
-      <div class="carousel-item">Logo</div>
-      <div class="carousel-item">Brosur</div>
-      <div class="carousel-item">Flyer</div>
-      <div class="carousel-item">Presentasi</div>
-      <div class="carousel-item">Kemasan</div>
-      <div class="carousel-item">Website</div>
-      <div class="carousel-item">Aplikasi</div>
-      <div class="carousel-item">Infografis</div>
+      <div class="carousel-item"><a href="/layanan/id">Logo</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Brosur</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Flyer</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Presentasi</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Kemasan</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Website</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Aplikasi</a></div>
+      <div class="carousel-item"><a href="/layanan/id">Infografis</a></div>
     </div>
 </div>
     </center>
