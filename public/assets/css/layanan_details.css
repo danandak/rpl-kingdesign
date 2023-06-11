@@ -1,0 +1,56 @@
+.judul_layanan {
+    height: 421px; 
+    background-color: rgba(217, 217, 217, 0.6);
+    background-size: cover;
+}
+
+.judul_layananText {
+    font-weight: bold; 
+    padding-top: 160px;
+}
+
+.jasaText{
+    color: #F8C306;
+}
+
+.detail_layanan {
+    height: 621px; 
+    background-color: rgba(217, 217, 217);
+    background-size: cover;
+}
+
+.layanan_detailsText {
+    font-size: 18pt;
+    font-weight: bold; 
+    padding-top:220px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.beli_layanan {
+    height: 450px; 
+    background-color: rgba(217, 217, 217, 0.6);
+    background-size: cover;
+}
+
+.beli_layananText {
+    font-size: 18pt;
+    font-weight: bold; 
+    padding-top: 130px;
+    margin-right: 580px;
+    margin-left: 580px;
+    margin-bottom: 25px;
+}
+.border_beliLayanan {
+    border: black 2px solid; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #F9C306; 
+    border-radius: 10px;
+}
+
+h4 {
+    font-weight: bold; 
+    margin-top: 9px; 
+}
+
