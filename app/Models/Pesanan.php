@@ -14,6 +14,8 @@ class Pesanan extends Model
     protected $table = 't_pesanan';
     public $timestamps = false;
 
+    protected $with = ['jasa', 'status'];
+
     public function user() {
         return $this->belongsTo(User::class, 'user_id');
     }

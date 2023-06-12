@@ -61,10 +61,13 @@ Route::get('/about', [AboutController::class, 'index'])->name('about.index');
 Route::get('/layanan', [LayananController::class, 'index'])->name('layanan.index');
 
 // Layanan Details
-Route::get('/layanan/id', [Layanan_DetailsController::class, 'index'])->name('layanan_details.index');
+Route::get('/layanan/{jasa}', [Layanan_DetailsController::class, 'index'])->name('layanan_details.index');
 
 // Pesanan
 Route::controller(PesananController::class)->group(function() {
-    Route::get('/pesanan', 'index');
-    Route::get('/pesanan/order', 'form');
+    Route::middleware(['auth'])->group(function() {
+        Route::get('/pesanan', 'index');
+        Route::get('/pesanan/order/{jasa}', 'form');
+        Route::post('/pesanan/order', 'order');
+    });
 });

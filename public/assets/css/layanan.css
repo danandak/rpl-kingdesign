@@ -48,17 +48,18 @@ a {
 .layanan3{
     background-color: rgba(217, 217, 217, 100%); 
     height: 180px; 
-    width: 400px;
+    width: 400px; 
     border: 1px solid black;
     margin-left: 25px;
     margin-top: 25px;
     border-radius: 15px;
+    padding: 1.5rem;
 }
 
-.text-layanan{
+/* .text-layanan{
     padding-top: 40px;
     padding-left: 20px;
-}
+} */
 
 .layanan2{
     display: flex; 
