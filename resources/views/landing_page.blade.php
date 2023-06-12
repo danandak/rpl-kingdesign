@@ -38,14 +38,14 @@
       <br><br>
    <div class="carousel-container">
     <div class="carousel-slide">
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Logo_layanan.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Brosur.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Flyer.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Presentasi.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Kemasan.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Website.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Aplikasi.png"></a></div>
-      <div class="carousel-item"><a href="/layanan/id"><img class="gambar4" src="/assets/img/Infografis.png"></a></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Logo_layanan.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Brosur.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Flyer.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Presentasi.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Kemasan.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Website.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Aplikasi.png"></div>
+      <div class="carousel-item"><img class="gambar4" src="/assets/img/Infografis.png"></div>
     </div>
 </div>
     </center>

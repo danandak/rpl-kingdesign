@@ -45,6 +45,7 @@ class PesananController extends Controller
         $validatedData = $request->validate($rules);
         $validatedData['user_id'] = auth()->user()->id;
         $validatedData['tanggal_pemesanan'] = now();
+        $validatedData['tanggal_selesai'] = now();
 
         Pesanan::create($validatedData);
         return redirect('/pesanan');
