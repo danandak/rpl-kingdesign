@@ -64,7 +64,7 @@
                           <button type="button" class="btn btn-primary px-4 bg-danger">Beli lagi</button>
                         </a>
                       @else
-                        <button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button>
+                        <a href="https://wa.me/628952507026"><button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button></a>
                       @endif
                     </div>
                   </div>
@@ -113,7 +113,7 @@
                           <button type="button" class="btn btn-primary px-4 bg-danger">Beli lagi</button>
                         </a>
                       @else
-                        <button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button>
+                         <a href="https://wa.me/628952507026"><button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button></a>
                       @endif
                     </div>
                   </div>
@@ -162,7 +162,7 @@
                           <button type="button" class="btn btn-primary px-4 bg-danger">Beli lagi</button>
                         </a>
                       @else
-                        <button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button>
+                         <a href="https://wa.me/628952507026"><button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button></a>
                       @endif
                     </div>
                   </div>
@@ -211,7 +211,7 @@
                           <button type="button" class="btn btn-primary px-4 bg-danger">Beli lagi</button>
                         </a>
                       @else
-                        <button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button>
+                         <a href="https://wa.me/628952507026"><button type="button" class="btn btn-primary px-4 text-dark bg-warning">Hubungi Penjual</button></a>
                       @endif
                     </div>
                   </div>
