@@ -27,16 +27,16 @@
         <form action="/pesanan/order" method="POST">
           @csrf
           <div class="row mb-4">
-            <div class="col-1">
-              <label for="nama">Nama :</label>
+            <div class="col-2">
+              <label for="nama">Nama Pemesan :</label>
             </div>
             <div class="col">
               <input type="text" name="nama_pembeli" class="w-100" id="nama">
             </div>
           </div>
           <div class="row">
-            <div class="col-1">
-              <label for="nama">No. Hp :</label>
+            <div class="col-2">
+              <label for="nama">No. Telepon :</label>
             </div>
             <div class="col">
               <input type="text" name="no_telp" class="w-100" id="nama">
