@@ -4,7 +4,7 @@
 @section('content')
   <div style="padding-bottom: 6rem; background-color: #D9D9D9">
     <div class="container-lg" style="padding: 8rem">
-      <h1 class="text-center">Riwayat Pesanan Anda di KingDesign</h1>
+      <h1 class="text-center">Riwayat Pesanan Anda di <span style="color: #F9C306">King</span>Design</h1>
     </div>
 
     {{-- nav tabs --}}
